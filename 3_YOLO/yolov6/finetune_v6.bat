@@ -1,0 +1,1 @@
+python "tools\train.py" --batch 7 --conf "finetune_config.py" --data "dataset/data.yaml" --fuse_ab --img-size 2048 --device 0 --epochs 30

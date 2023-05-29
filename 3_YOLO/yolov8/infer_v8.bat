@@ -1,0 +1,1 @@
+yolo task=detect mode=predict model=runs/detect/train/weights/best.pt conf=0.5 source=dataset/images/test save_txt save_conf

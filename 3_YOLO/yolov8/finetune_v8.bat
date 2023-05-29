@@ -1,0 +1,1 @@
+yolo task=detect mode=train model=runs/detect/train/weights/best.pt data=dataset/data.yaml epochs=50 imgsz=2048 batch=4

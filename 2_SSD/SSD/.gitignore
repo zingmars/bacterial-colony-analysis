@@ -1,0 +1,4 @@
+log.txt
+data/*
+vgg_dataset.py
+model.py

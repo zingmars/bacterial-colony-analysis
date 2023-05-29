@@ -1,0 +1,1 @@
+yolo task=detect mode=val model=runs/detect/train/weights/best.pt data=dataset/data.yaml device=0

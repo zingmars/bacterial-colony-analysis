@@ -1,0 +1,1 @@
+python tools/eval.py --data dataset/dat.yaml --weights runs/train/exp/weights/best_ckpt.pt --verbose

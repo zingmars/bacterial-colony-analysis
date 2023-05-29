@@ -1,0 +1,18 @@
+# Datasets, other stuff
+*.jpg
+images*
+dataset*
+test*
+results*
+__pycache__
+classes.json
+
+# Vim
+*.sw[a-p]
+*~
+
+# NN output
+weights*
+*.h5
+*.save
+history*.csv
